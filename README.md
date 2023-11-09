@@ -1,2 +1,2 @@
 # test
-RAcalss
+This is a test repository.
